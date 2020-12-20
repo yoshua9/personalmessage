@@ -1,0 +1,26 @@
+#contact-us-popup {
+    display: block;
+    background-color: tan;
+}
+#contact-us-popup:hover {
+    background-color: sienna;
+}
+.contact_modal{
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 auto;
+    width: calc(50% + 20px);
+}
+.product-quantity {
+    display: block;
+    margin: auto;
+    float: left;
+    width: 63%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+
+.contact-form .form-fields .form-group.row {
+    display: none;
+}
